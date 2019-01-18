@@ -1,0 +1,14 @@
+{
+    "name": "itaoke/ku",
+    "description": "itaoke ku",
+    "type": "libray",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "caption",
+            "email": "1674653@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
